@@ -1,0 +1,31 @@
+{
+  "stun_servers": [
+    "stun:stun.miwifi.com:3478",
+    "stun:stun.chat.bilibili.com:3478",
+    "stun:stun.douyucdn.cn:18000",
+    "stun:worldaz.relay.teams.microsoft.com:3478",
+    "stun:stun.l.google.com:19302"
+  ],
+  "doh_servers": [
+    "https://dns.alidns.com/resolve",
+    "https://1.12.12.12/dns-query",
+    "https://8.8.8.8/resolve"
+  ],
+  "region_ips": [
+    "203.41.44.20",
+    "68.224.57.1",
+    "52.165.177.1",
+    "20.73.130.1",
+    "20.43.132.1",
+    "20.200.225.1",
+    "20.195.85.1"
+  ],
+  "region_names": {
+    "CHILECENTRAL": "智利中部",
+    "EASTUS": "美国东部",
+    "WESTEUROPE": "西欧"
+  },
+  "notice": "",
+  "min_version": "1.0.2",
+  "update_url": ""
+}
