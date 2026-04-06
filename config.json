@@ -26,9 +26,14 @@
     "20.195.85.1"
   ],
   "region_names": {
-    "CHILECENTRAL": "智利中部",
     "EASTUS": "美国东部",
-    "WESTEUROPE": "西欧"
+    "WESTUS": "美国西部",
+    "WESTEUROPE": "西欧",
+    "JAPANEAST": "日本东部",
+    "KOREACENTRAL": "韩国中部",
+    "SOUTHEASTASIA": "东南亚",
+    "AUSTRALIAEAST": "澳大利亚东部",
+    "BRAZILSOUTH": "巴西南部"
   },
   "notice": "",
   "min_version": "1.0.2",
