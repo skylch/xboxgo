@@ -1,0 +1,2 @@
+# xboxgo
+xboxgo config
